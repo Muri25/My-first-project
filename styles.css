@@ -120,7 +120,7 @@ h1, h2, h3 {
     width: 0.625rem;
     height: 1rem;
     border: none;
-    background-image: url('/images/icon-arrow-down.PNG');
+    background-image: url('/images/icon-arrow-down.svg');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center center;
@@ -176,7 +176,7 @@ h1, h2, h3 {
       display: flex;
       margin: 0 auto;
       padding: 4.375rem 6.25rem 4.375rem 0;
-      background-image: url('images/bg-pattern-desktop.PNG'); 
+      background-image: url('images/bg-pattern-desktop.svg'); 
       background-size: 45%;
       background-position: -13% center; 
     }
