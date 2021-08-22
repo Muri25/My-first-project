@@ -73,7 +73,6 @@ h1, h2, h3 {
     top: -9.3rem;
     left: 50%;
     transform: translateX(-50%);
-    background-image: url('images/bg-pattern-desktop.svg');
     display: block;
     width: 100%;
     height: auto;
